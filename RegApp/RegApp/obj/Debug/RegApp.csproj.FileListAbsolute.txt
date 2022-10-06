@@ -1,0 +1,16 @@
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.csproj.AssemblyReference.cache
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\MainWindow.g.cs
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\App.g.cs
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.cache
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.lref
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\bin\Debug\RegApp.exe.config
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\bin\Debug\RegApp.exe
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\bin\Debug\RegApp.pdb
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\MainWindow.baml
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.g.resources
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.Properties.Resources.resources
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.csproj.GenerateResource.cache
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.csproj.CoreCompileInputs.cache
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.exe
+C:\Users\Gulfiya\source\repos\RegApp\RegApp\obj\Debug\RegApp.pdb
